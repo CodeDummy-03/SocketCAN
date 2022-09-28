@@ -1,0 +1,5 @@
+VirtualCAN
+SocketCAN
+https://www.kvaser.com/developer-blog/beginners-guide-to-using-kvasers-virtual-drivers/
+https://www.kvaser.com/developer-blog/can-signal-analysis-with-spreadsheets-and-kvasers-canking-sae-j1939-example/
+C# program to detect data from serial-connection/commport
